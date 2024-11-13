@@ -1,0 +1,2 @@
+# genNextInno
+code for hackathon
